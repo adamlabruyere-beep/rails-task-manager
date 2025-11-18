@@ -13,3 +13,62 @@
  *= require_tree .
  *= require_self
  */
+
+ .btn-danger a {
+  color: rgb(0, 0, 0);
+  font-weight: bolder;
+  text-decoration: none !important;
+}
+
+.btn-danger {
+   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.8);
+ }
+
+ .btn-info a {
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    text-decoration: none !important;
+ }
+
+ .btn-info {
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.8);
+ }
+
+ .btn-success a {
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    text-decoration: none !important;
+ }
+
+ .btn-success {
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.8);
+ }
+
+ .btn-primary a {
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    text-decoration: none !important;
+ }
+
+ .btn-primary {
+   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.8);
+ }
+
+ .container {
+  margin: 20px;
+  padding: 10px;
+ }
+
+ .container li a {
+  padding: 5px;
+  text-decoration: none !important;
+  color: black;
+  font-size: large;
+}
+
+.container li {
+   display: flex !important;
+ }
+
+ .form-check-input {
+ }
